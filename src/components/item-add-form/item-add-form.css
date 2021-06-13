@@ -1,0 +1,12 @@
+.item-add-form{
+    margin-top: 10px;
+    height: 45px;
+}
+.item-add-form input {
+    margin-right: 6px;
+}
+.btn-form
+{
+background-color:blue;
+color:darkgoldenrod
+}
